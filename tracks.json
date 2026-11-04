@@ -21,7 +21,7 @@
         "modelMotionFile": "tracks/2人/2P.vmd"
     },
     {
-        "name": "2人",
+        "name": "2人 (2)",
         "repo": "motions",
         "slug": "2人_2",
         "modelMotionFile": "tracks/2人_2/2P.vmd"
@@ -122,7 +122,7 @@
         "audioPlayerFile": "tracks/Bad_Boy/Bad Boy.wav"
     },
     {
-        "name": "Bad Boy",
+        "name": "Bad Boy (2)",
         "repo": "motions",
         "slug": "Bad_Boy_2",
         "modelMotionFile": "tracks/Bad_Boy_2/BAD BOY.vmd",
@@ -146,7 +146,7 @@
         "audioPlayerFile": "tracks/Berry_Good_-_Mellow_Mellow_BigYellowAlien/berry_good___mellow_mellow__short_ver___by_bigyellowalien-dcxu83m.wav"
     },
     {
-        "name": "Berry Good - Mellow Mellow [BigYellowAlien]",
+        "name": "Berry Good - Mellow Mellow [BigYellowAlien] (2)",
         "repo": "motions",
         "slug": "Berry_Good_-_Mellow_Mellow_BigYellowAlien_2",
         "modelMotionFile": "tracks/Berry_Good_-_Mellow_Mellow_BigYellowAlien_2/Mellow Mellow - Motion [BigYellowAlien].vmd",
