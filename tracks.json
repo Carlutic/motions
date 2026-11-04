@@ -1,0 +1,276 @@
+[
+    {
+        "name": "16Shots 动作表情delay10s",
+        "repo": "motions",
+        "slug": "16Shots_动作表情delay10s",
+        "modelMotionFile": "tracks/16Shots_动作表情delay10s/16Shots Motion.vmd",
+        "camMotionFile": "tracks/16Shots_动作表情delay10s/16Shots Camera.vmd",
+        "audioPlayerFile": "tracks/16Shots_动作表情delay10s/16 Shots - Stefflon Don.wav"
+    },
+    {
+        "name": "1Motion",
+        "repo": "motions",
+        "slug": "1Motion",
+        "modelMotionFile": "tracks/1Motion/Motion.vmd",
+        "camMotionFile": "tracks/1Motion/Camera.vmd"
+    },
+    {
+        "name": "2人",
+        "repo": "motions",
+        "slug": "2人",
+        "modelMotionFile": "tracks/2人/2P.vmd"
+    },
+    {
+        "name": "2人",
+        "repo": "motions",
+        "slug": "2人_2",
+        "modelMotionFile": "tracks/2人_2/2P.vmd"
+    },
+    {
+        "name": "2恖儌乕僔儑儞",
+        "repo": "motions",
+        "slug": "2恖儌乕僔儑儞",
+        "modelMotionFile": "tracks/2恖儌乕僔儑儞/2.儌乕僔儑儞.vmd"
+    },
+    {
+        "name": "4 person ver",
+        "repo": "motions",
+        "slug": "4_person_ver",
+        "modelMotionFile": "tracks/4_person_ver/Gayoung.vmd"
+    },
+    {
+        "name": "4Motion",
+        "repo": "motions",
+        "slug": "4Motion",
+        "modelMotionFile": "tracks/4Motion/2.vmd",
+        "camMotionFile": "tracks/4Motion/Camera.vmd"
+    },
+    {
+        "name": "4ver",
+        "repo": "motions",
+        "slug": "4ver",
+        "modelMotionFile": "tracks/4ver/lisa_Smooth ver..vmd",
+        "camMotionFile": "tracks/4ver/camera.vmd",
+        "audioPlayerFile": "tracks/4ver/How You Like That (Tube x).wav"
+    },
+    {
+        "name": "4恖儌乕僔儑儞仌僇儊儔",
+        "repo": "motions",
+        "slug": "4恖儌乕僔儑儞仌僇儊儔",
+        "modelMotionFile": "tracks/4恖儌乕僔儑儞仌僇儊儔/2.vmd"
+    },
+    {
+        "name": "5P ver",
+        "repo": "motions",
+        "slug": "5P_ver",
+        "modelMotionFile": "tracks/5P_ver/4 Rin.vmd",
+        "camMotionFile": "tracks/5P_ver/Camera.vmd",
+        "audioPlayerFile": "tracks/5P_ver/WANNABE full.wav"
+    },
+    {
+        "name": "AOA - Good Luck",
+        "repo": "motions",
+        "slug": "AOA_-_Good_Luck",
+        "modelMotionFile": "tracks/AOA_-_Good_Luck/Good Luck.vmd",
+        "audioPlayerFile": "tracks/AOA_-_Good_Luck/AOA - Good Luck.wav"
+    },
+    {
+        "name": "AOA猫步轻俏",
+        "repo": "motions",
+        "slug": "AOA猫步轻俏",
+        "modelMotionFile": "tracks/AOA猫步轻俏/AOA3035帧动作数据1by清纯大米.vmd",
+        "camMotionFile": "tracks/AOA猫步轻俏/AOA3035帧简单镜头1by清纯大米.vmd",
+        "expressionMotionFile": "tracks/AOA猫步轻俏/AOA3035帧表情.vmd",
+        "audioPlayerFile": "tracks/AOA猫步轻俏/AOA1.wav"
+    },
+    {
+        "name": "AUTOBUS~~",
+        "repo": "motions",
+        "slug": "AUTOBUS",
+        "modelMotionFile": "tracks/AUTOBUS/僆乕僩僶僗_Tda儈僋.vmd",
+        "camMotionFile": "tracks/AUTOBUS/僆乕僩僶僗cam_Tda儈僋.vmd",
+        "audioPlayerFile": "tracks/AUTOBUS/DJ BLYATMAN - AUTOBUS feat. Nick Sax & Lolli (Official Music Video).wav"
+    },
+    {
+        "name": "Apink-LUV",
+        "repo": "motions",
+        "slug": "Apink-LUV",
+        "modelMotionFile": "tracks/Apink-LUV/LUV``.vmd",
+        "audioPlayerFile": "tracks/Apink-LUV/LUV (Cover Dance By Ari).wav"
+    },
+    {
+        "name": "BAAM",
+        "repo": "motions",
+        "slug": "BAAM",
+        "modelMotionFile": "tracks/BAAM/舞蹈.vmd",
+        "camMotionFile": "tracks/BAAM/镜头.vmd",
+        "audioPlayerFile": "tracks/BAAM/BAAM.wav"
+    },
+    {
+        "name": "BLACKPINK-DDU-DU DDU-DU",
+        "repo": "motions",
+        "slug": "BLACKPINK-DDU-DU_DDU-DU",
+        "modelMotionFile": "tracks/BLACKPINK-DDU-DU_DDU-DU/1.儌僨儖儌乕僔儑儞.vmd",
+        "audioPlayerFile": "tracks/BLACKPINK-DDU-DU_DDU-DU/DDU-DU DDU-DU.wav"
+    },
+    {
+        "name": "Bad Boy",
+        "repo": "motions",
+        "slug": "Bad_Boy",
+        "modelMotionFile": "tracks/Bad_Boy/BAD BOY.vmd",
+        "camMotionFile": "tracks/Bad_Boy/Bad Boy Camera.vmd",
+        "audioPlayerFile": "tracks/Bad_Boy/Bad Boy.wav"
+    },
+    {
+        "name": "Bad Boy",
+        "repo": "motions",
+        "slug": "Bad_Boy_2",
+        "modelMotionFile": "tracks/Bad_Boy_2/BAD BOY.vmd",
+        "camMotionFile": "tracks/Bad_Boy_2/Bad Boy Camera.vmd",
+        "audioPlayerFile": "tracks/Bad_Boy_2/Bad Boy.wav"
+    },
+    {
+        "name": "Base_Down_Low",
+        "repo": "motions",
+        "slug": "Base_Down_Low",
+        "modelMotionFile": "tracks/Base_Down_Low/motion.vmd",
+        "camMotionFile": "tracks/Base_Down_Low/camera.vmd",
+        "audioPlayerFile": "tracks/Base_Down_Low/BaseDownLow.wav"
+    },
+    {
+        "name": "Berry Good - Mellow Mellow [BigYellowAlien]",
+        "repo": "motions",
+        "slug": "Berry_Good_-_Mellow_Mellow_BigYellowAlien",
+        "modelMotionFile": "tracks/Berry_Good_-_Mellow_Mellow_BigYellowAlien/Mellow Mellow - Motion [BigYellowAlien].vmd",
+        "camMotionFile": "tracks/Berry_Good_-_Mellow_Mellow_BigYellowAlien/Mellow Mellow - Camera [BigYellowAlien].vmd",
+        "audioPlayerFile": "tracks/Berry_Good_-_Mellow_Mellow_BigYellowAlien/berry_good___mellow_mellow__short_ver___by_bigyellowalien-dcxu83m.wav"
+    },
+    {
+        "name": "Berry Good - Mellow Mellow [BigYellowAlien]",
+        "repo": "motions",
+        "slug": "Berry_Good_-_Mellow_Mellow_BigYellowAlien_2",
+        "modelMotionFile": "tracks/Berry_Good_-_Mellow_Mellow_BigYellowAlien_2/Mellow Mellow - Motion [BigYellowAlien].vmd",
+        "camMotionFile": "tracks/Berry_Good_-_Mellow_Mellow_BigYellowAlien_2/Mellow Mellow - Camera [BigYellowAlien].vmd",
+        "audioPlayerFile": "tracks/Berry_Good_-_Mellow_Mellow_BigYellowAlien_2/berry_good___mellow_mellow__short_ver___by_bigyellowalien-dcxu83m.wav"
+    },
+    {
+        "name": "Bla Bla Bla~",
+        "repo": "motions",
+        "slug": "Bla_Bla_Bla",
+        "modelMotionFile": "tracks/Bla_Bla_Bla/Motion mikuo.vmd",
+        "camMotionFile": "tracks/Bla_Bla_Bla/Camera.vmd",
+        "audioPlayerFile": "tracks/Bla_Bla_Bla/Bla Bla Bla.wav"
+    },
+    {
+        "name": "Breathe On Me",
+        "repo": "motions",
+        "slug": "Breathe_On_Me",
+        "modelMotionFile": "tracks/Breathe_On_Me/Breathe On Me儌乕僔儑儞.vmd",
+        "camMotionFile": "tracks/Breathe_On_Me/Breath on me camera by CegooK.vmd",
+        "audioPlayerFile": "tracks/Breathe_On_Me/5552_0f0b_0309_b82ed7794e8aa4b7fd454c75cb82dd56.wav"
+    },
+    {
+        "name": "Bubble_Butt~",
+        "repo": "motions",
+        "slug": "Bubble_Butt",
+        "modelMotionFile": "tracks/Bubble_Butt/motion.vmd",
+        "camMotionFile": "tracks/Bubble_Butt/Camera (Changed By Dr. Cossack).vmd",
+        "audioPlayerFile": "tracks/Bubble_Butt/Bubble_Butt.wav"
+    },
+    {
+        "name": "Bunny Bot~",
+        "repo": "motions",
+        "slug": "Bunny_Bot",
+        "modelMotionFile": "tracks/Bunny_Bot/MotionSmoother.vmd",
+        "camMotionFile": "tracks/Bunny_Bot/camera.vmd",
+        "audioPlayerFile": "tracks/Bunny_Bot/Bunny Bot - Dance Animation.wav"
+    },
+    {
+        "name": "BurnItUp",
+        "repo": "motions",
+        "slug": "BurnItUp",
+        "modelMotionFile": "tracks/BurnItUp/motion.vmd",
+        "camMotionFile": "tracks/BurnItUp/camera.vmd",
+        "audioPlayerFile": "tracks/BurnItUp/BurnItUp_louder.wav"
+    },
+    {
+        "name": "Busters-grapes",
+        "repo": "motions",
+        "slug": "Busters-grapes",
+        "modelMotionFile": "tracks/Busters-grapes/buster.vmd",
+        "camMotionFile": "tracks/Busters-grapes/camera.vmd",
+        "audioPlayerFile": "tracks/Busters-grapes/Busters(버스 터즈) Grapes(포도포도해) dance cover《踊ってみた》by Mana.wav"
+    },
+    {
+        "name": "CHUNG HA-Snapping by Sewelina",
+        "repo": "motions",
+        "slug": "CHUNG_HA-Snapping_by_Sewelina",
+        "modelMotionFile": "tracks/CHUNG_HA-Snapping_by_Sewelina/motion.vmd",
+        "audioPlayerFile": "tracks/CHUNG_HA-Snapping_by_Sewelina/CHUNG HA-Snapping.wav"
+    },
+    {
+        "name": "Cakeface",
+        "repo": "motions",
+        "slug": "Cakeface",
+        "modelMotionFile": "tracks/Cakeface/model 1.vmd",
+        "camMotionFile": "tracks/Cakeface/camera.vmd",
+        "audioPlayerFile": "tracks/Cakeface/Cakeface.wav"
+    },
+    {
+        "name": "Calabria2008~",
+        "repo": "motions",
+        "slug": "Calabria2008",
+        "modelMotionFile": "tracks/Calabria2008/motion.vmd",
+        "audioPlayerFile": "tracks/Calabria2008/Enur feat Natasja - Calabria 2007 Ultra Music - YouTube_converted.wav"
+    },
+    {
+        "name": "Camera motion",
+        "repo": "motions",
+        "slug": "Camera_motion",
+        "modelMotionFile": "tracks/Camera_motion/C2.vmd"
+    },
+    {
+        "name": "Can't Feel My Face",
+        "repo": "motions",
+        "slug": "Can_t_Feel_My_Face",
+        "modelMotionFile": "tracks/Can_t_Feel_My_Face/MOTION.vmd",
+        "audioPlayerFile": "tracks/Can_t_Feel_My_Face/CFMF.wav"
+    },
+    {
+        "name": "Cannibal",
+        "repo": "motions",
+        "slug": "Cannibal",
+        "modelMotionFile": "tracks/Cannibal/Cannibal.vmd",
+        "audioPlayerFile": "tracks/Cannibal/Cannibal.wav"
+    },
+    {
+        "name": "Carry Me off 配布用motion",
+        "repo": "motions",
+        "slug": "Carry_Me_off_配布用motion",
+        "modelMotionFile": "tracks/Carry_Me_off_配布用motion/miku.vmd",
+        "camMotionFile": "tracks/Carry_Me_off_配布用motion/camera.vmd",
+        "audioPlayerFile": "tracks/Carry_Me_off_配布用motion/Carry Me Off.wav"
+    },
+    {
+        "name": "Center 4types",
+        "repo": "motions",
+        "slug": "Center_4types",
+        "modelMotionFile": "tracks/Center_4types/C.P1.vmd",
+        "camMotionFile": "tracks/Center_4types/Camera儌乕僔儑儞.vmd"
+    },
+    {
+        "name": "ChungHa-Chica by Sewelina",
+        "repo": "motions",
+        "slug": "ChungHa-Chica_by_Sewelina",
+        "modelMotionFile": "tracks/ChungHa-Chica_by_Sewelina/chica.vmd",
+        "audioPlayerFile": "tracks/ChungHa-Chica_by_Sewelina/chung_ha-chica.wav"
+    },
+    {
+        "name": "Clutch~",
+        "repo": "motions",
+        "slug": "Clutch",
+        "modelMotionFile": "tracks/Clutch/motion full.vmd",
+        "camMotionFile": "tracks/Clutch/camera.vmd",
+        "audioPlayerFile": "tracks/Clutch/Dance Animation.wav"
+    }
+]
